@@ -3,7 +3,8 @@ import SavedBooks from './pages/SavedBooks';
 import Navbar from './components/Navbar';
 import { ApolloProvider } from '@apollo/react-hooks';
 import ApolloClient from 'apollo-boost';
-
+import React from 'react';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 const client = new ApolloClient({
   request: (operation) => {
@@ -34,3 +35,5 @@ function App() {
     </ApolloProvider>
   );
 }
+
+export default App;

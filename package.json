@@ -8,6 +8,7 @@
     "start:prod": "cd server && npm start",
     "start:dev": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
     "install": "cd server && npm i && cd ../client && npm i",
+    "seed": "cd server && npm run seed",
     "heroku-postbuild": "cd client && npm run build"
   },
   "repository": {
@@ -15,11 +16,12 @@
     "url": "git+https://github.com/jorgeebn16/21-merm-challenge.git"
   },
   "keywords": [],
-  "author": "Jorge Navarro",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/jorgeebn16/21-merm-challenge/issues"
   },
+  "homepage": "https://github.com/jorgeebn16/21-merm-challenge#readme",
   "dependencies": {
     "if-env": "^1.0.4"
   },

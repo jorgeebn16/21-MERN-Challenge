@@ -1,5 +1,5 @@
-# 21-MERN-Challenge
-Book Search Engine
+# Google-Books-Search
+UCF Bootcamp Week 21 - MERN Challenge: Book Search Engine
 
 ## Table of Contents
 

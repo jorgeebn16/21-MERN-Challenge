@@ -113,16 +113,16 @@ npm start
 </br>
 
 ## Badges
-![GitHub repo size](https://img.shields.io/github/repo-size/jorgeebn16/20-React-Porfolio)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jorgeebn16/20-React-Porfolio)
-![Most recent commit](https://img.shields.io/github/last-commit/jorgeebn16/20-React-Porfolio)
-![GitHub top language](https://img.shields.io/github/languages/top/jorgeebn16/20-React-Porfolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/jorgeebn16/google-book-search)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jorgeebn16/google-book-search)
+![Most recent commit](https://img.shields.io/github/last-commit/jorgeebn16/google-book-search)
+![GitHub top language](https://img.shields.io/github/languages/top/jorgeebn16/google-book-search)
 </br>
 </br>
 
 ## Issues
-[![GitHub issues](https://img.shields.io/github/issues/jorgeebn16/20-React-Porfolio.svg)](https://GitHub.com/jorgeebn16/20-React-Porfolio/issues/)
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/jorgeebn16/20-React-Porfolio.svg)](https://GitHub.com/jorgeebn16/20-React-Porfolio/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub issues](https://img.shields.io/github/issues/jorgeebn16/google-book-search.svg)](https://GitHub.com/jorgeebn16/google-book-search/issues/)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/jorgeebn16/google-book-search.svg)](https://GitHub.com/jorgeebn16/google-book-search/issues?q=is%3Aissue+is%3Aclosed)
 </br>
 </br>
 
@@ -153,7 +153,7 @@ npm start
 View [Deployed Portfolio](https://jorgeebn16-booksearching.herokuapp.com/)
 
 ## Contributing
-[![GitHub contributors](https://img.shields.io/github/contributors/jorgeebn16/21-merm-challenge.svg)](https://GitHub.com/jorgeebn16/21-merm-challenge/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/jorgeebn16/google-book-search.svg)](https://GitHub.com/jorgeebn16/google-book-search/graphs/contributors/)
 
 For anyone who wishes to contribute you can contact me with at jorgeebn16@gmail.com
 </br>
